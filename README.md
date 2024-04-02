@@ -23,3 +23,4 @@ sql dump file:
 - > mysql -u <user_name> -p accounts < db_backup.sql
 
 
+<img width="1710" alt="Screenshot 2024-04-02 at 9 42 51 AM" src="https://github.com/PramithaMJ/VProfile-Project/assets/123730262/a6bc41ab-350e-4b83-84f8-72fa27baa9de">
